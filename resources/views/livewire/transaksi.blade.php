@@ -3,7 +3,7 @@
         <div class="row mt-12">
             <div class="col-12">
                 @if(!$transaksiAktif)
-                <button class="btn btn-primary" wire:click='transaksiBaru'>Transaksi Baru</button>
+                <button class="btn btn-primary" wire:click='transaksiBaru'>Transaki Baru</button>
                 @else
                 <button class="btn btn-danger" wire:click='batalTransaksi'>Batalkan Transaksi</button>
                 @endif
