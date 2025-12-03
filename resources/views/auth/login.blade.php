@@ -100,6 +100,7 @@
 
             {{-- Header with Logo --}}
             <div class="login-header">
+                <img src="azp.ico" alt="Logo" height="28">
                 <h4 class="fw-bold mt-2 mb-0" style="color: #333;">Login Kasir</h4>
                 <p class="text-muted small">Akses Cepat untuk Kasir</p>
             </div>

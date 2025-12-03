@@ -106,6 +106,9 @@
     <div id="app">
         <nav class="navbar navbar-expand-md navbar-dark bg-primary shadow-sm">
             <div class="container">
+                <a class="navbar-brand fw-bold d-flex align-items-center gap-2" href="{{ url('/') }}">
+                    <img src="azp.ico" alt="Logo" height="28">
+                </a>
 
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
                     data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"

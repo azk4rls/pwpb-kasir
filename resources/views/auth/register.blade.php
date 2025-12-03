@@ -101,6 +101,7 @@
 
             {{-- Header with Logo --}}
             <div class="register-header">
+                <img src="azp.ico" alt="Logo" height="28">
                 <h4 class="fw-bold mt-2 mb-0" style="color: #333;">Daftar Akun</h4>
                 <p class="text-muted small">Buat akun baru untuk kasir</p>
             </div>
